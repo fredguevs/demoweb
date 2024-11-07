@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # demoweb
 =======
 # React + Vite
